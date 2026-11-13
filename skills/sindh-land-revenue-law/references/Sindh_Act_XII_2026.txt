@@ -1,0 +1,245 @@
+                          PROVINCIAL ASSEMBLY OF SINDH
+                                 NOTIFICATION
+                           KARACHI, THE 07TH APRIL, 2026.
+
+NO.PAS/LEGIS-B-04/2026- The Sindh Land Revenue (Amendment) Bill, 2026 having
+been passed by the Provincial Assembly of Sindh on 20th February, 2026 and assented to
+by the Governor of Sindh on 26th March, 2026 is hereby published as an Act of the
+Legislature of Sindh.
+               THE SINDH LAND REVENUE (AMENDMENT) ACT, 2026.
+
+                               SINDH ACT NO. XII OF 2026.
+                                            AN
+                                            ACT
+
+      to amend the Sindh Land Revenue Act, 1967.
+
+       WHEREAS it is expedient to amend Sindh Land Revenue Act, Preamble.
+1967, in the manner hereinafter appearing;
+
+      It is hereby enacted as follows:-
+
+1. (1) This Act may be called the Sindh Land Revenue (Amendment) Short title and
+       Act, 2026.                                                commencement.
+
+   (2) It shall come into force at once.
+
+2.    In the Sindh Land Revenue Act, 1967, hereinafter referred to as Amendment of section
+the said Act, in section 4 –                                          4 of Sindh Act
+                                                                              No.XVII of 1967.
+      (i)    after subsection (3), the following new sub-sections shall be
+             inserted:-
+            “(3-A)“audit trail mechanism” means a chronological,
+            tamper-evident and secure digital record of all actions,
+            entries, alterations, or transactions carried out within the
+            electronic land record system, including the identification of
+            users, timestamps and details of operations, which is
+            sufficient to reconstruct, verify and authenticate any activity
+            or change in the Record of Rights or related data;
+            (3-B) "biometric verification" means the process of capturing
+            and authenticating the identification of parties through
+            fingerprints, thumb impressions or facial recognition or any
+            other biometric modality through the NADRA database;”;
+      (ii) after sub-section (6), the following new sub-sections shall be
+           inserted:-
+            “(6-A) “Centralized Digital Land Record Management
+            System”     means     an   integrated    information      and
+            communication technology-based platform established by the
+            Government for the creation, management, preservation and
+            updating of computerized land records, including documents,
+            images, record data, information, communications,
+            transactions, reports and maps in electronic or digital form,
+    ensuring secure access, audit trails, interoperability and
+    authentication of records;
+    (6-B) “cyber security” means protecting information,
+    equipment,      devices,  computer,     computer    resource,
+    communication devices and information stored therein from
+    unauthorized access, use, disclosure, disruption, modification
+    or destruction;
+    (6-C) "Database" or "Secure Database" means the digitally
+    protected repository of land records and related documents
+    maintained with appropriate security measures;”;
+(iii) after sub-section (7), the following new sub-sections shall be
+      inserted:-
+    “(7-A) "digitalization" means the process of converting land
+    records, registers, maps or documents into electronic or
+    computerized form and managing them through an electronic
+    system in accordance with prescribed standards and
+    procedures;
+    (7-B) "digital signature" means an electronic signature as
+    defined in the Electronic Transactions Ordinance, 2002
+    (Ordinance XLVII of 2002), used for authentication and
+    execution of electronic documents and transactions;
+    (7-C) "electronic" has the same meaning as assigned to it in
+    the Electronic Transactions Ordinance, 2002 (Ordinance
+    XLVII of 2002);
+    (7-D) “electronic attestation” means the acceptance, approval
+    or certification of an electronic record, transaction or
+    document by an authorized person or system using prescribed
+    electronic methods such as digital signatures, biometric
+    verification or other secure authentication protocols;
+    (7-E) “electronic conveyance or transfer of title” means the
+    execution, submission, authentication and registration of any
+    instrument or transaction effecting the conveyance, transfer,
+    creation or extinguishment of rights or interests in land
+    through an electronic or digital system established by
+    Government, using secure means of identification, biometric
+    verification, digital signatures or other approved technologies
+    to ensure authenticity, integrity and legal validity of such
+    transactions;
+    (7-F) “electronic document” means any document as defined
+    in the Electronic Transactions Ordinance, 2002 (Ordinance
+    XLVII of 2002), including agreements, deeds, instruments and
+    certificates created, stored, transmitted, or authenticated in
+    electronic form;
+
+    (7-G) “electronic system" means a system intended for and
+    capable of generating, sending, receiving, storing or otherwise
+    processing electronic data messages or electronic documents
+    that are registered, recorded and maintained under this Act;
+         (7-H) “electronic transaction” means any transaction carried
+         out or conducted electronically through any digital platform,
+         system or means, including the creation, execution,
+         submission, authentication, endorsement or registration of
+         records, documents, agreements or instruments related to
+         land under this Act;
+         (7-I) "e-endorsement" means an electronic attestation or
+         action by an authorized officer, using a digital signature or
+         other secure method, signifying the final legal approval and
+         validation of an electronic transaction entry in the
+         computerized Record of Rights;
+         (7-J) "e-verification" means the prescribed process of
+         confirming the identity of the originator or the authenticity
+         and integrity of an electronic data message or document,
+         using secure authentication procedures such as algorithm or
+         codes, One Time Password (OTP), encryptions or similar
+         security devices;
+     (iv) after sub-section (15), the following new sub-section shall be
+          inserted:-
+         (15-A) “NADRA” means the National Database and
+         Registration Authority established under the National
+         Database and Registration Authority Ordinance, 2000
+         (Ordinance VIII of 2000);”.
+
+3.   In the said Act, in section 39 -                                        Amendment of section
+                                                                             39 of Sindh Act
+      (i) in sub-section (2), clause (e) shall be omitted;                   No.XVII of 1967.
+     (ii) after sub-section (2), the following new sub-sections shall be
+          inserted:
+         “(3) For the purposes of this Act, the expression “Record-of-
+         Rights” shall mean and include the official register or
+         authenticated record comprising the statements, maps,
+         registers and other prescribed documents referred to in sub-
+         section (2), showing particulars of ownership, possession,
+         cultivation rights, encumbrances, occupants, and holders, the
+         nature and extent of their rights and liabilities, and details of
+         rent, revenue, dues payable or other interests in land.
+
+         (4) The Record-of-Rights may be prepared, maintained and
+         preserved in physical, digital or electronic form. Its
+         computerized, digitized or electronically maintained version,
+         containing documents, images, record data, information,
+         communications, transactions, reports, or maps, recorded
+         through an automated information system and declared by
+         the Board of Revenue, by notification, shall constitute the
+         computerized Record-of-Rights of the deh, having the same
+         legal effect, authenticity and evidentiary value as the record
+         prepared in physical form.
+4.     In the said Act, after section 42, the following new sections shall Insertion of new
+be inserted:                                                               section42-A and
+                                                                              42-B in Sindh Act
+       “42-A. Digitalization of Record of Rights and Electronic No.XVII of 1967.
+       Conveyance Transfer of Title. (1) Notwithstanding anything
+       contained in this Act or any other law, for the time being in
+       force, Government may, by notification in the official Gazette,
+       make rules for the computerization, digitalization, maintenance
+       and management of the Record of Rights, mutations and other
+       records or registers pertaining to land, and for the electronic
+       conveyance, transfer of title or creation or extinguishment of any
+       interest in land through an electronic system.
+             (2) The rules made under sub-section (1) may, inter alia,
+       provide for –
+           (i)    establishment, operation and maintenance of a secure,
+                  centralized digital land record management system
+                  based on cutting-edge technology;
+           (ii)   electronic creation, storage, authentication and
+                  verification of Record-of-Rights, mutations and
+                  transfers of title or any transaction creating or
+                  extinguishing interest in land;
+           (iii) the manner and procedure for e-verification, e-
+                 endorsement and electronic attestation of transactions;
+           (iv) use of biometric verification, digital signatures or other
+                secure means of authentication to ensure the integrity
+                and non-repudiation of transactions;
+           (v)    interoperability and data sharing among government
+                  departments,     financial  institutions   and    other
+                  stakeholders for the purpose of updating and validating
+                  land records;
+
+           (vi) establishment of audit trail mechanisms, data backup
+                protocols, cyber security measures and access control
+                systems to ensure data accuracy, reliability and
+                security;
+           (vii) recognition of digital or electronic records, certificates
+                 and instruments as legally valid and equivalent to
+                 physical records for all intents and purposes under this
+                 Act;
+           (viii) transitional arrangements for the migration of existing
+                  records to the electronic system;
+           (ix) designation   of    authorities        responsible     for
+                implementation and oversight;
+           (x)    protection of data privacy and personal information in
+                  accordance with applicable laws; and
+           (xi) any other matter incidental or ancillary to the
+                digitalization of land records and electronic transfer of
+                title.
+   (3) Government may, for the purpose of implementing the
+provisions of this section, designate or authorize any public
+authority, agency or service provider to operate or manage the
+electronic system under prescribed conditions.
+   (4) The Board of Revenue may, by notification in the official
+Gazette, declare that the Records of Rights for any specified
+Deh shall henceforth be created, maintained and managed
+exclusively through the Centralized Digital Land Record
+Management System established under this Act. The
+notification under this sub-section shall simultaneously prohibit
+the future manual preparation of the Record of Rights for that
+Deh under section 42, thereby effectuating the full transition
+from manual to digital land record management in a
+coordinated manner.
+   (5) Any act, entry or record made in electronic form under
+the rules framed pursuant to this section shall have the same
+legal effect and evidentiary value as a record prepared or
+maintained manually under this Act and the Sindh Registration
+Act, 1908:
+     Provided that in case of any inconsistency or discrepancy
+between the digitized or computerized Records of Rights and
+the records prepared pursuant to section 40, the latter, having
+been duly attested and authenticated by the Mukhtiarkar and
+the Assistant Commissioner, shall prevail and be deemed to be
+the authoritative record for all legal purposes.
+  (6) Government may prescribe fee for the digitalization and
+e-Conveyance and e-Transfer.
+42-B. Power to remove difficulties. (1) If any difficulty arises in
+giving effect to the provisions of this Part, the Board of Revenue
+may, with prior approval of Government, by notification in the
+official gazette, make such provisions of this Act, as appear to
+be necessary or expedient, for the purpose of removing such
+difficulty.
+   (2) Where a notification is issued under sub-section (7), the
+Board of Revenue shall, within a period of two months from the
+date of such notification, initiate the formal process for the
+introduction of a Bill in the Provincial Assembly to amend this
+Act in accordance with the spirit of the directions so given:
+     Provided that no such notification shall be made under
+sub-section (7) after the expiry of a period of three years from
+the date of the commencement of this section.”.
+                              ____________
+
+                                      BY ORDER OF THE SPEAKER
+                                    PROVINCIAL ASSEMBLY OF Sindh
+
+                                        G.M.UMAR FAROOQ
+                                            SECRETARY
+                                   PROVINCIAL ASSEMBLY OF SINDH
+
